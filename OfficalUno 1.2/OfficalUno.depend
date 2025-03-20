@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1742404658 source:c:\just a project\officaluno 1.2\main.cpp
+	<SDL_ttf.h>
+	"khaiquat.h"
+	"loopGame.h"
+
+1742317072 c:\just a project\officaluno 1.2\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"defs.h"
+
+1742198165 c:\just a project\officaluno 1.2\defs.h
+
+1742404782 c:\just a project\officaluno 1.2\khaiquat.h
+	<iostream>
+	<vector>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"graphics.h"
+
+1742404650 c:\just a project\officaluno 1.2\loopgame.h
+	"khaiquat.h"
+	"game.h"
+
+1742463596 c:\just a project\officaluno 1.2\game.h
+	"khaiquat.h"
+
+1742404543 source:c:\just a project\officaluno 1.2\khaiquat.cpp
+	"khaiquat.h"
+
